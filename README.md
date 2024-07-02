@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@Abhishek-MasterCharm**
+- 👋 Hi, I’m **@Abhishek CodeBuddy**
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on exciting web development projects, particularly those involving modern JavaScript frameworks
